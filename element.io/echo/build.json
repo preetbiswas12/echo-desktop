@@ -1,0 +1,7 @@
+{
+    "appId": "com.echo.desktop",
+    "name": "echo-desktop",
+    "productName": "Echo",
+    "description": "Echo: secure communication on echo-server",
+    "protocols": ["io.echo.desktop", "echo"]
+}
